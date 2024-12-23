@@ -1,8 +1,8 @@
 # KiCad Converter
 
-[![npm version](https://badge.fury.io/js/kicad-converter.svg)](https://badge.fury.io/js/kicad-converter)
+KiCad Converter is a TypeScript library that facilitates seamless conversion between KiCad file formats, JSON, and [Circuit JSON](https://github.com/tscircuit/circuit-json)
 
-KiCad Converter is a TypeScript library that facilitates seamless conversion between KiCad file formats, JSON, and [Circuit JSON](https://docs.tscircuit.com/api-reference/advanced/soup)
+[![npm version](https://badge.fury.io/js/kicad-converter.svg)](https://badge.fury.io/js/kicad-converter)
 
 ## Table of Contents
 
